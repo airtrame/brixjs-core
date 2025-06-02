@@ -49,6 +49,14 @@ Typically used as a core dependency within BrixJS projects scaffolded via the [`
 
 ---
 
+## 🤝 Contributing
+
+We welcome contributions of all kinds – bug fixes, documentation improvements, new features, and feedback.
+
+BrixJS is fully open-source and MIT-licensed. Feel free to fork the repo, open issues, or submit pull requests.
+
+---
+
 ## 🔗 Resources
 
 * 🧱 Framework core: [BrixJS Core](https://github.com/airtrame/brixjs-core)
